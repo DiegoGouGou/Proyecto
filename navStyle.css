@@ -94,9 +94,16 @@
 
 }
 
-.row {
+.card-body {
+    position: relative;
     padding: auto;
+
+}
+
+.card-group1 {
     display: flex;
     background-attachment: fixed;
-
+    padding-right: 10rem;
+    padding-left: 30rem;
+    position: relative;
 }
